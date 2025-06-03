@@ -93,7 +93,6 @@ VALUES ('admin1', 'admin123', 'admin@snapbuy.com', 'admin');
 
 - Kod yapısı OOP ilkelerine %100 uygundur
 - Exception handling, veritabanı güvenliği sağlanmıştır
-- Bonus puan için Regex ve Multithreading özellikleri dahil edilmiştir
 
 ---
 
